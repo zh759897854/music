@@ -1,3 +1,4 @@
+
 <p align="center"><a href="https://github.com/lyswhut/lx-music-desktop"><img width="200" src="https://github.com/lyswhut/lx-music-desktop/blob/master/doc/images/icon.png" alt="lx-music logo"></a></p>
 
 <p align="center">
@@ -31,6 +32,8 @@
 <h2 align="center">洛雪音乐助手桌面版</h2>
 
 ### 说明
+
+### 转载于[这里](https://github.com/lyswhut/lx-music-desktop)
 
 一个基于 Electron + Vue 开发的音乐软件。
 
